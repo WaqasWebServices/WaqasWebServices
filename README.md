@@ -1,4 +1,4 @@
-<h1 align="center">Hola, 👋 I'm Waqas Khalid</h1>
+<h1 align="center">Hi, 👋 I'm Waqas Khalid</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=waqaskhalid&label=Profile%20views&color=0e75b6&style=flat" alt="waqaskhalid" />
@@ -16,7 +16,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqaswebservices/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaswebservices@gmail.com)
 
 ---
