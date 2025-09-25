@@ -19,10 +19,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://wa.me/923001234567">
+  <a href="https://wa.me/923180696998">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.threads.net/@yourusername">
+  <a href="https://www.threads.net/@Waqaswebservices">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
   <a href="mailto:waqaskhalid@gmail.com">
