@@ -16,11 +16,28 @@
 
 ---
 
-## 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourdomain.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqaswebservices/)  
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white)](https://gumroad.com/yourstore)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaswebservices@gmail.com)
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://wa.me/923001234567">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.threads.net/@yourusername">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <a href="mailto:waqaskhalid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://gumroad.com/yourstore">
+    <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad"/>
+  </a>
+  <a href="https://www.linkedin.com/in/waqaswebservices/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourprofile">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+</p>
 
 ---
 
@@ -56,4 +73,4 @@
 
 ## 🚀 Hire Us
 👉 [Check Our Services on Gumroad](https://gumroad.com/yourstore)  
-👉 [Book a Free Consulting Call](mailto:waqaswebservices@gmail.com)
+👉 [Book a Free Consulting Call](mailto:waqaskhalid@gmail.com)  
