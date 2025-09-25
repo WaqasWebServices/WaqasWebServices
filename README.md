@@ -1,70 +1,59 @@
-<h1 align="center">Hi, 👋 I'm Waqas Khalid</h1>
+<h1 align="center">🚀 𝙒𝘼𝙌𝘼𝙎 𝙒𝙀𝘽 𝙎𝙀𝙍𝙑𝙄𝘾𝙀𝙎 🚀</h1>
+<h3 align="center">AI Automations | SaaS Platforms | Web & Mobile Apps | E-Commerce | Marketing</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waqaskhalid&label=Profile%20views&color=0e75b6&style=flat" alt="waqaskhalid" />
+  <img src="https://komarev.com/ghpvc/?username=waqaskhalid&label=Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 👨‍💻 About Me :
+---
 
-- 🎓 BS in Information Technology (Final Semester), BZU Multan.
-- 💻 I’m currently working as a freelance Web Developer (WordPress & Shopify).
-- 🔍 I’m currently learning more about React and advanced frontend technologies.
-- 🤝 Open to freelance & remote roles in Web Development or Project Management.
-- ⚡ Fun fact: I love solving tech problems and optimizing websites for performance.
+## 👨‍💼 About Us
+- ⚡ **Agency Owner**: Waqas Khalid  
+- 💻 Building **AI Automations, SaaS Websites, Shopify, WooCommerce, WordPress**  
+- 📱 Custom **React, Node.js, PHP, Next.js, Android & iOS Apps**  
+- 📈 **Digital Marketing Campaigns** & Lead Generation  
+- 💡 Free Business Ideas & Consulting for entrepreneurs  
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqaswebservices/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaswebservices@gmail.com)
+## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourdomain.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqaswebservices/)  
+[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white)](https://gumroad.com/yourstore)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaswebservices@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 💼 Services
+- 🤖 AI Automation (Custom GPT Bots, Workflow Tools)  
+- 🏗 SaaS & Full-Stack Development (React, Node.js, PHP, Next.js)  
+- 🛒 E-Commerce (Shopify, WooCommerce, Funnels)  
+- 📱 Mobile Apps (Android & iOS)  
+- 📈 Social Media Marketing & Lead Generation  
+- 💡 Free Consulting & Evergreen Business Ideas  
 
+---
+
+## 🧰 Tech Stack
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🧠 Skills
-
-- 🧑‍💻 Frontend Development: HTML, CSS, JavaScript, Bootstrap
-- ⚙️ CMS Development: WordPress, Shopify
-- 📊 Project & Team Management: Scheduling, Planning, Problem Solving
-- 🗃️ Database Handling: SQL, MySQL
-- 📈 SEO Optimization and Performance Tuning
-- 🤝 Client Communication & Support
-
----
-
-## 💼 Work Highlights
-
-- ✅ Built and maintained fast, responsive Shopify & WordPress sites.
-- 🚀 Boosted organic traffic by 20% using SEO best practices.
-- 💬 Delivered client-focused solutions that exceed expectations.
-
----
-
-## 💻 Tools I Use
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqaskhalid&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waqaskhalid&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqaskhalid&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqaskhalid&theme=radical" />
 </p>
+
+---
+
+## 🚀 Hire Us
+👉 [Check Our Services on Gumroad](https://gumroad.com/yourstore)  
+👉 [Book a Free Consulting Call](mailto:waqaswebservices@gmail.com)  
