@@ -25,16 +25,16 @@
   <a href="https://www.threads.net/@Waqaswebservices">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
-  <a href="mailto:waqaskhalid@gmail.com">
+  <a href="mailto:waqaswebservices@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://gumroad.com/yourstore">
+  <a href="https://waqaswebservices.gumroad.com">
     <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad"/>
   </a>
   <a href="https://www.linkedin.com/in/waqaswebservices/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~yourprofile">
+  <a href="https://www.upwork.com/freelancers/~014b27f49c4bf870a0?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
 </p>
