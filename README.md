@@ -73,4 +73,4 @@
 
 ## 🚀 Hire Us
 👉 [Check Our Services on Gumroad](https://gumroad.com/yourstore)  
-👉 [Book a Free Consulting Call](mailto:waqaskhalid@gmail.com)  
+👉 [Book a Free Consulting Call](mailto:waqaswebservices@gmail.com)  
