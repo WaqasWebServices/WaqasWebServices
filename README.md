@@ -8,6 +8,10 @@
 
 I design and build products that solve real business problems — from SaaS platforms and Android apps to conversion-focused storefronts and AI-powered workflows.
 
+<!-- Keep the original waqaskhalid counter key to preserve its visitor history. -->
+![Profile Visitors](https://komarev.com/ghpvc/?username=waqaskhalid&label=Profile%20Visitors&color=6C63FF&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/waqaskhalid?label=Followers&color=2563EB&logo=github&style=for-the-badge)](https://github.com/waqaskhalid?tab=followers)
+
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/WaqasWebServices)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqaswebservices/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaswebservices@gmail.com)
@@ -139,6 +143,39 @@ I also build interface concepts to explore visual systems, user flows, and respo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Activity & Statistics
+
+<div align="center">
+
+<!-- All activity cards refer to your original GitHub username: waqaskhalid. -->
+
+### Profile Overview
+
+<a href="https://github.com/waqaskhalid">
+  <img width="49%" alt="GitHub contribution, star and repository statistics" src="https://github-readme-stats.vercel.app/api?username=waqaskhalid&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/waqaskhalid?tab=repositories">
+  <img width="44%" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqaskhalid&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</a>
+
+### Contribution Streak
+
+<a href="https://github.com/waqaskhalid">
+  <img width="75%" alt="GitHub contribution streak statistics" src="https://streak-stats.demolab.com?user=waqaskhalid&theme=tokyonight&hide_border=true" />
+</a>
+
+### Contribution Timeline
+
+<a href="https://github.com/waqaskhalid">
+  <img width="97%" alt="GitHub contribution timeline and profile activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waqaskhalid&theme=tokyonight" />
+</a>
+
+<sub>These cards display activity visible through the public GitHub APIs. Private work, client projects, and repositories outside this account may not be included.</sub>
+
+</div>
 
 ---
 
