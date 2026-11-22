@@ -1,76 +1,162 @@
-<h1 align="center">🚀 𝙒𝘼𝙌𝘼𝙎 𝙒𝙀𝘽 𝙎𝙀𝙍𝙑𝙄𝘾𝙀𝙎 🚀</h1>
-<h3 align="center">AI Automations | SaaS Platforms | Web & Mobile Apps | E-Commerce | Marketing</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waqaskhalid&label=Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+# Waqas Khalid
 
----
+### Full-Stack Developer · Flutter Game Developer · E-Commerce Specialist
 
-## 👨‍💼 About Us
-- ⚡ **Agency Owner**: Waqas Khalid  
-- 💻 Building **AI Automations, SaaS Websites, Shopify, WooCommerce, WordPress**  
-- 📱 Custom **React, Node.js, PHP, Next.js, Android & iOS Apps**  
-- 📈 **Digital Marketing Campaigns** & Lead Generation  
-- 💡 Free Business Ideas & Consulting for entrepreneurs  
+**Founder & Independent Developer at Waqas Web Services**
 
----
+I design and build products that solve real business problems — from SaaS platforms and Android apps to conversion-focused storefronts and AI-powered workflows.
 
-## 🌐 Connect With Me  
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/WaqasWebServices)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqaswebservices/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqaswebservices@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923180696998)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014b27f49c4bf870a0)
 
-<p align="center">
-  <a href="https://wa.me/923180696998">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.threads.net/@Waqaswebservices">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
-  </a>
-  <a href="mailto:waqaswebservices@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://waqaswebservices.gumroad.com">
-    <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad"/>
-  </a>
-  <a href="https://www.linkedin.com/in/waqaswebservices/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~014b27f49c4bf870a0?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-</p>
+**Web Platforms** · **Mobile Apps & Games** · **Shopify & WooCommerce** · **AI Automation**
+
+</div>
 
 ---
 
-## 💼 Services
-- 🤖 AI Automation (Custom GPT Bots, Workflow Tools)  
-- 🏗 SaaS & Full-Stack Development (React, Node.js, PHP, Next.js)  
-- 🛒 E-Commerce (Shopify, WooCommerce, Funnels)  
-- 📱 Mobile Apps (Android & iOS)  
-- 📈 Social Media Marketing & Lead Generation  
-- 💡 Free Consulting & Evergreen Business Ideas  
+## About Me
+
+I work across the entire product lifecycle: discovery, UI/UX, frontend development, backend architecture, integrations, testing, and deployment. My focus is on **clean user experiences, maintainable code, performance, and business outcomes**.
+
+- **Full-stack products:** custom SaaS applications, customer portals, dashboards, and API integrations.
+- **Mobile experiences:** Flutter apps, Android utilities, and 2D games built with Flutter/Flame.
+- **Commerce:** custom Shopify experiences, WooCommerce/WordPress, storefront UX, and conversion-rate optimization.
+- **Automation:** workflow tools, AI-assisted systems, and integrations that reduce repetitive work.
+- **Growth & marketing:** landing pages, sales funnels, lead generation, and conversion-focused improvements.
+
+### Experience at a Glance
+
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>9+ Years</strong><br/><sub>Web & e-commerce experience</sub></td>
+    <td align="center" width="33%"><strong>48+ Stores</strong><br/><sub>Custom Shopify projects</sub></td>
+    <td align="center" width="33%"><strong>30+ Projects</strong><br/><sub>Store conversion optimization</sub></td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## Featured Work
+
+### TOBUVERSE — Event & Ticketing Platform
+
+**Client platform · Ongoing development**  
+[Explore TOBUVERSE](https://tobuverse.com/)
+
+A web experience centered on events, ticket sales, customer journeys, and integrated payments. My work includes product interface development and checkout-related flows. The next planned phase expands toward **community features and self-service advertising**.
+
+### Selected E-Commerce & Client Websites
+
+These are live websites featured in my [public portfolio](https://linktr.ee/WaqasWebServices). The portfolio illustrates the range of brands, layouts, and business models I work with.
+
+| Project | Industry | Website |
+|:--|:--|:--|
+| **Thesupermade** | Fashion & streetwear e-commerce | [Visit](https://www.thesupermade.com/) |
+| **SOTEAK** | Outdoor furniture storefront | [Visit](https://soteak.shop/) |
+| **SpineVora** | Wellness product e-commerce | [Visit](https://www.spinevora.com/) |
+| **White Sparrow Farmacy** | Skincare & personal care | [Visit](https://www.whitesparrow.com/) |
+| **Bugged** | Professional service website | [Visit](https://bugged.com/) |
+| **Solo Skin London** | Beauty & skincare storefront | [Visit](https://www.soloskinlondon.co.uk/) |
+
+**More work:** [Full client portfolio & additional projects](https://linktr.ee/WaqasWebServices)
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqaskhalid&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqaskhalid&theme=radical" />
-</p>
+## Android Apps & Game Development
+
+I develop mobile products with a focus on **responsive interfaces, smooth gameplay, intuitive navigation, and offline-friendly experiences**.
+
+### Published Android Utilities
+
+| App | What it does | Link |
+|:--|:--|:--|
+| **Ecom Profit Calculator** | A toolkit covering profit margins, pricing, transaction fees, ROAS, inventory and more. | [Google Play](https://play.google.com/store/apps/details?id=com.waqaswebservices.ecommerceprofitcalculator) |
+| **SuperVPN Max** | Android VPN utility with a straightforward one-tap connection experience. | [Google Play](https://play.google.com/store/apps/details?id=com.waqaswebservices.supervpnmax) |
+
+### Selected Mobile Games
+
+| Game | Focus |
+|:--|:--|
+| **Water Sort Puzzle** | Color-sorting puzzle, level progression, player rewards, and mobile-first UI. |
+| **Tetrus Reloaded** | Falling-block puzzle with progression, power-ups, and custom gameplay interfaces. |
+| **Bubble Bloom Adventure** | Bright, accessible bubble-shooter puzzle experience. |
+| **Jewls Hunt** | Offline match-3 game featuring gemstones, special combinations, and obstacles. *In development.* |
+| **Brick Breaker Deluxe** | Arcade brick-breaker with hurdles, power-ups, and level-based challenges. *In development.* |
+
+> My game work spans gameplay planning, 2D art direction, interface design, level systems, and Flutter/Flame implementation.
 
 ---
 
-## 🚀 Hire Us
-👉 [Check Our Services on Gumroad](https://gumroad.com/yourstore)  
-👉 [Book a Free Consulting Call](mailto:waqaswebservices@gmail.com)  
+## UI Concepts & Frontend Experiments
+
+I also build interface concepts to explore visual systems, user flows, and responsive frontend design.
+
+| Concept | Live Demo |
+|:--|:--|
+| **LumaHaus** — premium furniture storefront | [Preview](https://furneture-landingpage.netlify.app/) |
+| **Printora** — custom printed apparel | [Preview](https://custom-tshirt-ui.netlify.app/) |
+| **KICKZ** — sneaker storefront | [Preview](https://kickz-sneakers.netlify.app/) |
+| **CryptoX** — trading dashboard UI | [Preview](https://cryptox-ui.netlify.app/) |
+| **PlayCloud** — gaming website UI | [Preview](https://gaming-website-ui.netlify.app/) |
+
+*Concepts and UI demonstrations are distinct from production client deployments.*
+
+---
+
+## Technical Toolkit
+
+**Frontend & Full Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Mobile & Games**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Flame](https://img.shields.io/badge/Flame-FF6B00?style=flat-square&logo=flutter&logoColor=white)
+
+**Commerce & CMS**
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**Data, Integrations & Delivery**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Current Focus
+
+- **TOBUVERSE:** extending a ticketing platform toward community and advertising capabilities.
+- **Invoice Pro:** designing an offline-first invoicing app with optional Google Drive sync and customizable templates.
+- **Flutter / Flame:** building and refining mobile puzzle and arcade game experiences.
+- **Commerce experiences:** improving storefront usability, speed, and conversion journeys.
+
+---
+
+## Let's Build Something Useful
+
+I take on selected projects involving **SaaS, custom web applications, mobile apps, Shopify development, and automation**.
+
+**Have a project in mind?** [Email me](mailto:waqaswebservices@gmail.com) · [Message on WhatsApp](https://wa.me/923180696998) · [Connect on LinkedIn](https://www.linkedin.com/in/waqaswebservices/) · [Hire me on Upwork](https://www.upwork.com/freelancers/~014b27f49c4bf870a0)
+
+<div align="center">
+  <sub>Waqas Web Services · Independent software development & digital solutions</sub>
+</div>
